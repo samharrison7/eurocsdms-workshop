@@ -3278,7 +3278,7 @@ input, select, textarea {
 			}
 
 			#wrapper section > footer {
-				grid-area: footer;
+				csdms-area: footer;
 				text-align: right;
 			}
 
